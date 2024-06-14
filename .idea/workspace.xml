@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="KDV Tutar Ödevi">
-      <change afterPath="$PROJECT_DIR$/src/Hipotenus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Hİpotenüs">
+      <change afterPath="$PROJECT_DIR$/src/TaxiMeter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Desktop/Patika/PatikaJava101&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Hipotenus">
+  <component name="RunManager" selected="Application.TaxiMeter">
     <configuration name="Hipotenus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hipotenus" />
       <module name="java101" />
@@ -63,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaxiMeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaxiMeter" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TaxiMeter" />
         <item itemvalue="Application.Hipotenus" />
         <item itemvalue="Application.KDVTutarHesaplama" />
         <item itemvalue="Application.PointAverage" />
@@ -88,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718370100579</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hİpotenüs">
+      <option name="closed" value="true" />
+      <created>1718370834188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718370834188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="point average" />
     <MESSAGE value="KDV Tutar Ödevi" />
-    <option name="LAST_COMMIT_MESSAGE" value="KDV Tutar Ödevi" />
+    <MESSAGE value="Hİpotenüs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hİpotenüs" />
   </component>
 </project>
