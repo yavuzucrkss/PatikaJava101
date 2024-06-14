@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="TaxiMeter">
-      <change afterPath="$PROJECT_DIR$/src/CircleCalculate.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="BodyIndexCalculator">
+      <change afterPath="$PROJECT_DIR$/src/GrocerCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Desktop/Patika/PatikaJava101&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BodyIndexCalculator">
+  <component name="RunManager" selected="Application.GrocerCalculator">
     <configuration name="BodyIndexCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BodyIndexCalculator" />
       <module name="java101" />
@@ -56,15 +56,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hipotenus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hipotenus" />
+    <configuration name="GrocerCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GrocerCalculator" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KDVTutarHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KDVTutarHesaplama" />
+    <configuration name="Hipotenus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hipotenus" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GrocerCalculator" />
         <item itemvalue="Application.BodyIndexCalculator" />
         <item itemvalue="Application.CircleCalculate" />
         <item itemvalue="Application.TaxiMeter" />
         <item itemvalue="Application.Hipotenus" />
-        <item itemvalue="Application.KDVTutarHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +120,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718371515154</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CircleCalculate">
+      <option name="closed" value="true" />
+      <created>1718371988552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718371988552</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CircleCalculate">
+      <option name="closed" value="true" />
+      <created>1718372274518</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718372274518</updated>
+    </task>
+    <task id="LOCAL-00006" summary="BodyIndexCalculator">
+      <option name="closed" value="true" />
+      <created>1718372427123</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718372427123</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +175,9 @@
     <MESSAGE value="KDV Tutar Ödevi" />
     <MESSAGE value="Hİpotenüs" />
     <MESSAGE value="TaxiMeter" />
-    <option name="LAST_COMMIT_MESSAGE" value="TaxiMeter" />
+    <MESSAGE value="BodyIndex" />
+    <MESSAGE value="CircleCalculate" />
+    <MESSAGE value="BodyIndexCalculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="BodyIndexCalculator" />
   </component>
 </project>
