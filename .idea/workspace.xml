@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="BodyIndexCalculator">
-      <change afterPath="$PROJECT_DIR$/src/GrocerCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +41,16 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Desktop/Patika/PatikaJava101&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GrocerCalculator">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="BodyIndexCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BodyIndexCalculator" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hipotenus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hipotenus" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TaxiMeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TaxiMeter" />
       <module name="java101" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.GrocerCalculator" />
         <item itemvalue="Application.BodyIndexCalculator" />
         <item itemvalue="Application.CircleCalculate" />
         <item itemvalue="Application.TaxiMeter" />
-        <item itemvalue="Application.Hipotenus" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718372427123</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="BodyIndexCalculator">
+      <option name="closed" value="true" />
+      <created>1718372802062</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718372802062</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
