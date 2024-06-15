@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Horoscope Finder">
-      <change afterPath="$PROJECT_DIR$/src/FlyTicketCalculator.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Fly Ticket Calculator">
+      <change afterPath="$PROJECT_DIR$/src/ChineseZodiac.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FlyTicketCalculator">
+  <component name="RunManager" selected="Application.ChineseZodiac">
+    <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChineseZodiac" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FlyTicketCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FlyTicketCalculator" />
       <module name="java101" />
@@ -65,13 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UserLogin" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WeatherActivities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WeatherActivities" />
       <module name="java101" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChineseZodiac" />
         <item itemvalue="Application.FlyTicketCalculator" />
         <item itemvalue="Application.NumverOrderer" />
         <item itemvalue="Application.WeatherActivities" />
         <item itemvalue="Application.SinifGEcme" />
-        <item itemvalue="Application.UserLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718448657970</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Fly Ticket Calculator">
+      <option name="closed" value="true" />
+      <created>1718449275214</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718449275214</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +249,7 @@
     <MESSAGE value="Weather Activities" />
     <MESSAGE value="Number Orderer" />
     <MESSAGE value="Horoscope Finder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Horoscope Finder" />
+    <MESSAGE value="Fly Ticket Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fly Ticket Calculator" />
   </component>
 </project>
