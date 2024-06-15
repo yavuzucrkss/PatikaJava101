@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="BodyIndexCalculator">
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="CAlculator">
+      <change afterPath="$PROJECT_DIR$/src/UserLogin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Desktop/Patika/PatikaJava101&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.UserLogin">
     <configuration name="BodyIndexCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BodyIndexCalculator" />
       <module name="java101" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxiMeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaxiMeter" />
+    <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserLogin" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserLogin" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.GrocerCalculator" />
         <item itemvalue="Application.BodyIndexCalculator" />
         <item itemvalue="Application.CircleCalculate" />
-        <item itemvalue="Application.TaxiMeter" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718372802062</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CAlculator">
+      <option name="closed" value="true" />
+      <created>1718374569489</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718374569489</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +194,7 @@
     <MESSAGE value="BodyIndex" />
     <MESSAGE value="CircleCalculate" />
     <MESSAGE value="BodyIndexCalculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="BodyIndexCalculator" />
+    <MESSAGE value="CAlculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="CAlculator" />
   </component>
 </project>
