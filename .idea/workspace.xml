@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Number Orderer">
-      <change afterPath="$PROJECT_DIR$/src/HoroscopeFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Horoscope Finder">
+      <change afterPath="$PROJECT_DIR$/src/FlyTicketCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +43,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumverOrderer">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+  <component name="RunManager" selected="Application.FlyTicketCalculator">
+    <configuration name="FlyTicketCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlyTicketCalculator" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlyTicketCalculator" />
         <item itemvalue="Application.NumverOrderer" />
         <item itemvalue="Application.WeatherActivities" />
         <item itemvalue="Application.SinifGEcme" />
         <item itemvalue="Application.UserLogin" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718447826581</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Horoscope Finder">
+      <option name="closed" value="true" />
+      <created>1718448657970</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718448657970</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +240,7 @@
     <MESSAGE value="UserLogin" />
     <MESSAGE value="Weather Activities" />
     <MESSAGE value="Number Orderer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number Orderer" />
+    <MESSAGE value="Horoscope Finder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Horoscope Finder" />
   </component>
 </project>
