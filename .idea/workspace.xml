@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Combinations" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="ExponentialNumCal">
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +27,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2hs1o2V2gJz9NxedKRBSs9HPQ1Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,16 +46,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExponentialNumCal">
-    <configuration name="CombinationCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CombinationCalculator" />
+  <component name="RunManager" selected="Application.ArmstrongNumber">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenNumberFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenNumberFinder" />
+    <configuration name="CombinationCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombinationCalculator" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.ExponentialNumCal" />
         <item itemvalue="Application.CombinationCalculator" />
         <item itemvalue="Application.PowersOfTwo" />
         <item itemvalue="Application.OddNumbersSum" />
-        <item itemvalue="Application.EvenNumberFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718635601841</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ExponentialNumCal">
+      <option name="closed" value="true" />
+      <created>1718636130873</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1718636130873</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,6 +305,7 @@
     <MESSAGE value="Even Number Finder" />
     <MESSAGE value="Powers of Two" />
     <MESSAGE value="Combinations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Combinations" />
+    <MESSAGE value="ExponentialNumCal" />
+    <option name="LAST_COMMIT_MESSAGE" value="ExponentialNumCal" />
   </component>
 </project>
