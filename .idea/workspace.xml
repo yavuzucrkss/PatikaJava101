@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Odd Numbers Sum">
-      <change afterPath="$PROJECT_DIR$/src/PowersOfTwo.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Powers of Two">
+      <change afterPath="$PROJECT_DIR$/src/CombinationCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +43,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PowersOfTwo">
-    <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChineseZodiac" />
+  <component name="RunManager" selected="Application.CombinationCalculator">
+    <configuration name="CombinationCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombinationCalculator" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CombinationCalculator" />
         <item itemvalue="Application.PowersOfTwo" />
         <item itemvalue="Application.OddNumbersSum" />
         <item itemvalue="Application.EvenNumberFinder" />
         <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.ChineseZodiac" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +285,7 @@
     <MESSAGE value="ChineseZodiac.java" />
     <MESSAGE value="Even Number Finder" />
     <MESSAGE value="Odd Numbers Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Odd Numbers Sum" />
+    <MESSAGE value="Powers of Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Powers of Two" />
   </component>
 </project>
