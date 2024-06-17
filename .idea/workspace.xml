@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Powers of Two">
-      <change afterPath="$PROJECT_DIR$/src/CombinationCalculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Combinations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CombinationCalculator">
+  <component name="RunManager" selected="Application.ExponentialNumCal">
     <configuration name="CombinationCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CombinationCalculator" />
       <module name="java101" />
@@ -58,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+    <configuration name="ExponentialNumCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExponentialNumCal" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExponentialNumCal" />
         <item itemvalue="Application.CombinationCalculator" />
         <item itemvalue="Application.PowersOfTwo" />
         <item itemvalue="Application.OddNumbersSum" />
         <item itemvalue="Application.EvenNumberFinder" />
-        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718631733054</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Odd Numbers Sum">
+      <option name="closed" value="true" />
+      <created>1718635601841</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718635601841</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,8 +290,8 @@
     <MESSAGE value="Fly Ticket Calculator" />
     <MESSAGE value="ChineseZodiac.java" />
     <MESSAGE value="Even Number Finder" />
-    <MESSAGE value="Odd Numbers Sum" />
     <MESSAGE value="Powers of Two" />
-    <option name="LAST_COMMIT_MESSAGE" value="Powers of Two" />
+    <MESSAGE value="Combinations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Combinations" />
   </component>
 </project>
