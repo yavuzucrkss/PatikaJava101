@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="ChineseZodiac.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Even Number Finder">
+      <change afterPath="$PROJECT_DIR$/src/OddNumbersSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EvenNumberFinder">
+  <component name="RunManager" selected="Application.OddNumbersSum">
     <configuration name="ChineseZodiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChineseZodiac" />
       <module name="java101" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumverOrderer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumverOrderer" />
+    <configuration name="OddNumbersSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddNumbersSum" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddNumbersSum" />
         <item itemvalue="Application.EvenNumberFinder" />
         <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.ChineseZodiac" />
         <item itemvalue="Application.FlyTicketCalculator" />
-        <item itemvalue="Application.NumverOrderer" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718449942151</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Even Number Finder">
+      <option name="closed" value="true" />
+      <created>1718631255380</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718631255380</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +275,7 @@
     <MESSAGE value="Horoscope Finder" />
     <MESSAGE value="Fly Ticket Calculator" />
     <MESSAGE value="ChineseZodiac.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="ChineseZodiac.java" />
+    <MESSAGE value="Even Number Finder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Even Number Finder" />
   </component>
 </project>
