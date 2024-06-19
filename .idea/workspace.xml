@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="ArmstrongNumber">
-      <change afterPath="$PROJECT_DIR$/src/HarmonicNumber.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="HarmonicalNum">
+      <change afterPath="$PROJECT_DIR$/src/Diamonds.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HarmonicNumber">
+  <component name="RunManager" selected="Application.Diamonds">
     <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
       <module name="java101" />
@@ -56,6 +56,13 @@
     </configuration>
     <configuration name="CombinationCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CombinationCalculator" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Diamonds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diamonds" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,20 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowersOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PowersOfTwo" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Diamonds" />
         <item itemvalue="Application.HarmonicNumber" />
         <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.ExponentialNumCal" />
         <item itemvalue="Application.CombinationCalculator" />
-        <item itemvalue="Application.PowersOfTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718638289550</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="HarmonicalNum">
+      <option name="closed" value="true" />
+      <created>1718638742727</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718638742727</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,6 +323,7 @@
     <MESSAGE value="Combinations" />
     <MESSAGE value="ExponentialNumCal" />
     <MESSAGE value="ArmstrongNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArmstrongNumber" />
+    <MESSAGE value="HarmonicalNum" />
+    <option name="LAST_COMMIT_MESSAGE" value="HarmonicalNum" />
   </component>
 </project>
