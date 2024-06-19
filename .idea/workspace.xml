@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="TersUcgen">
-      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Fibonacci">
+      <change beforePath="$PROJECT_DIR$/src/FİbonacciSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718814151436</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Fibonacci">
+      <option name="closed" value="true" />
+      <created>1718815654327</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1718815654327</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,7 +368,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="KDV Tutar Ödevi" />
     <MESSAGE value="Hİpotenüs" />
     <MESSAGE value="TaxiMeter" />
     <MESSAGE value="BodyIndex" />
@@ -385,6 +392,7 @@
     <MESSAGE value="MinMaxNumber" />
     <MESSAGE value="PerfectNum" />
     <MESSAGE value="TersUcgen" />
-    <option name="LAST_COMMIT_MESSAGE" value="TersUcgen" />
+    <MESSAGE value="Fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci" />
   </component>
 </project>
