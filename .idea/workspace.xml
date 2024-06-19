@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="TersUcgen">
-      <change afterPath="$PROJECT_DIR$/src/PrimeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +46,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNum">
-    <configuration name="EBOBEKOK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EBOBEKOK" />
+  <component name="RunManager" selected="Application.FibonacciSeries">
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PrimeNum" />
         <item itemvalue="Application.TersUcgen" />
         <item itemvalue="Application.PerfectNum" />
         <item itemvalue="Application.MinMaxNumber" />
-        <item itemvalue="Application.EBOBEKOK" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718812405450</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="TersUcgen">
+      <option name="closed" value="true" />
+      <created>1718814151436</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1718814151436</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
