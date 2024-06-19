@@ -45,16 +45,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PerfectNum">
+  <component name="RunManager" selected="Application.TersUcgen">
     <configuration name="ATMApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ATMApplication" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Diamonds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diamonds" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TersUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TersUcgen" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TersUcgen" />
         <item itemvalue="Application.PerfectNum" />
         <item itemvalue="Application.MinMaxNumber" />
         <item itemvalue="Application.EBOBEKOK" />
         <item itemvalue="Application.ATMApplication" />
-        <item itemvalue="Application.Diamonds" />
       </list>
     </recent_temporary>
   </component>
