@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="MinMaxNumber">
-      <change afterPath="$PROJECT_DIR$/src/PerfectNum.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="TersUcgen">
+      <change afterPath="$PROJECT_DIR$/src/PrimeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TersUcgen">
-    <configuration name="ATMApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ATMApplication" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PrimeNum">
     <configuration name="EBOBEKOK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EBOBEKOK" />
       <module name="java101" />
@@ -74,6 +68,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNum" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TersUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TersUcgen" />
       <module name="java101" />
@@ -83,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNum" />
         <item itemvalue="Application.TersUcgen" />
         <item itemvalue="Application.PerfectNum" />
         <item itemvalue="Application.MinMaxNumber" />
         <item itemvalue="Application.EBOBEKOK" />
-        <item itemvalue="Application.ATMApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +309,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718811815967</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="PerfectNum">
+      <option name="closed" value="true" />
+      <created>1718812116184</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1718812116184</updated>
+    </task>
+    <task id="LOCAL-00028" summary="TersUcgen">
+      <option name="closed" value="true" />
+      <created>1718812405450</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1718812405450</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,7 +352,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="point average" />
     <MESSAGE value="KDV Tutar Ödevi" />
     <MESSAGE value="Hİpotenüs" />
     <MESSAGE value="TaxiMeter" />
@@ -359,6 +375,8 @@
     <MESSAGE value="ATMApplication" />
     <MESSAGE value="EbobEkok" />
     <MESSAGE value="MinMaxNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="MinMaxNumber" />
+    <MESSAGE value="PerfectNum" />
+    <MESSAGE value="TersUcgen" />
+    <option name="LAST_COMMIT_MESSAGE" value="TersUcgen" />
   </component>
 </project>
