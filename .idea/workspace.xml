@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="ATMApplication">
-      <change afterPath="$PROJECT_DIR$/src/EBOBEKOK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="EbobEkok">
+      <change afterPath="$PROJECT_DIR$/src/MinMaxNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +45,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EBOBEKOK">
+  <component name="RunManager" selected="Application.MinMaxNumber">
     <configuration name="ATMApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ATMApplication" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinMaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinMaxNumber" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinMaxNumber" />
         <item itemvalue="Application.EBOBEKOK" />
         <item itemvalue="Application.ATMApplication" />
         <item itemvalue="Application.Diamonds" />
         <item itemvalue="Application.HarmonicNumber" />
-        <item itemvalue="Application.ArmstrongNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718808301987</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="EbobEkok">
+      <option name="closed" value="true" />
+      <created>1718811131679</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718811131679</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,6 +349,7 @@
     <MESSAGE value="HarmonicalNum" />
     <MESSAGE value="Diamonds" />
     <MESSAGE value="ATMApplication" />
-    <option name="LAST_COMMIT_MESSAGE" value="ATMApplication" />
+    <MESSAGE value="EbobEkok" />
+    <option name="LAST_COMMIT_MESSAGE" value="EbobEkok" />
   </component>
 </project>
