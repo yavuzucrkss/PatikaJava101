@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Fibonacci">
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="PalindromNumber">
+      <change afterPath="$PROJECT_DIR$/src/PalindromNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FİbonacciSeries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FibonacciSeries">
+  <component name="RunManager" selected="Application.PalindromNumber">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="java101" />
@@ -54,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinMaxNumber" />
+    <configuration name="PalindromNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromNumber" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromNumber" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PrimeNum" />
         <item itemvalue="Application.TersUcgen" />
         <item itemvalue="Application.PerfectNum" />
-        <item itemvalue="Application.MinMaxNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718815654327</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Fibonacci">
+      <option name="closed" value="true" />
+      <created>1718815736248</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1718815736248</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,7 +378,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hİpotenüs" />
     <MESSAGE value="TaxiMeter" />
     <MESSAGE value="BodyIndex" />
     <MESSAGE value="CircleCalculate" />
@@ -393,6 +402,22 @@
     <MESSAGE value="PerfectNum" />
     <MESSAGE value="TersUcgen" />
     <MESSAGE value="Fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci" />
+    <MESSAGE value="PalindromNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="PalindromNumber" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FibonacciSeries.java</url>
+          <line>3</line>
+          <properties class="FibonacciSeries" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
