@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="PalindromNumber">
-      <change afterPath="$PROJECT_DIR$/src/ImpCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FİbonacciSeries.java" beforeDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Improved Calculator">
+      <change afterPath="$PROJECT_DIR$/src/RecursivePow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ImpCalculator">
+  <component name="RunManager" selected="Application.RecursivePow">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="java101" />
@@ -76,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TersUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TersUcgen" />
+    <configuration name="RecursivePow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursivePow" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursivePow" />
         <item itemvalue="Application.ImpCalculator" />
         <item itemvalue="Application.PalindromNumber" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PrimeNum" />
-        <item itemvalue="Application.TersUcgen" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718880356600</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Improved Calculator">
+      <option name="closed" value="true" />
+      <created>1718882000343</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1718882000343</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,7 +391,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TaxiMeter" />
     <MESSAGE value="BodyIndex" />
     <MESSAGE value="CircleCalculate" />
     <MESSAGE value="BodyIndexCalculator" />
@@ -410,7 +415,8 @@
     <MESSAGE value="TersUcgen" />
     <MESSAGE value="Fibonacci" />
     <MESSAGE value="PalindromNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="PalindromNumber" />
+    <MESSAGE value="Improved Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improved Calculator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
