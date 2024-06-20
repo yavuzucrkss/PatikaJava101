@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="Improved Calculator">
-      <change afterPath="$PROJECT_DIR$/src/RecursivePow.java" afterDir="false" />
-    </list>
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="RecursiveExponential" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -364,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718882000343</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="RecursiveExponential">
+      <option name="closed" value="true" />
+      <created>1718882871705</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1718882871705</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -391,7 +397,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BodyIndex" />
     <MESSAGE value="CircleCalculate" />
     <MESSAGE value="BodyIndexCalculator" />
     <MESSAGE value="CAlculator" />
@@ -416,7 +421,8 @@
     <MESSAGE value="Fibonacci" />
     <MESSAGE value="PalindromNumber" />
     <MESSAGE value="Improved Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improved Calculator" />
+    <MESSAGE value="RecursiveExponential" />
+    <option name="LAST_COMMIT_MESSAGE" value="RecursiveExponential" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
