@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="RecursiveExponential" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="RecursivePrime">
+      <change afterPath="$PROJECT_DIR$/src/RecursivePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecursivePow">
+  <component name="RunManager" selected="Application.RecursivePattern">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="java101" />
@@ -65,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNum" />
+    <configuration name="RecursivePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursivePattern" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursivePattern" />
         <item itemvalue="Application.RecursivePow" />
         <item itemvalue="Application.ImpCalculator" />
         <item itemvalue="Application.PalindromNumber" />
         <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.PrimeNum" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718882871705</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="RecursivePrime">
+      <option name="closed" value="true" />
+      <created>1718883201326</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1718883201326</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,7 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CircleCalculate" />
     <MESSAGE value="BodyIndexCalculator" />
     <MESSAGE value="CAlculator" />
     <MESSAGE value="UserLogin" />
@@ -422,7 +432,8 @@
     <MESSAGE value="PalindromNumber" />
     <MESSAGE value="Improved Calculator" />
     <MESSAGE value="RecursiveExponential" />
-    <option name="LAST_COMMIT_MESSAGE" value="RecursiveExponential" />
+    <MESSAGE value="RecursivePrime" />
+    <option name="LAST_COMMIT_MESSAGE" value="RecursivePrime" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
