@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="PalindromNumber">
-      <change afterPath="$PROJECT_DIR$/src/PalindromNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImpCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FİbonacciSeries.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PalindromNumber">
+  <component name="RunManager" selected="Application.ImpCalculator">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="java101" />
@@ -56,15 +55,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromNumber" />
+    <configuration name="ImpCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImpCalculator" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerfectNum" />
+    <configuration name="PalindromNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromNumber" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImpCalculator" />
         <item itemvalue="Application.PalindromNumber" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.PrimeNum" />
         <item itemvalue="Application.TersUcgen" />
-        <item itemvalue="Application.PerfectNum" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718815736248</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="PalindromNumber">
+      <option name="closed" value="true" />
+      <created>1718880356600</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1718880356600</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
