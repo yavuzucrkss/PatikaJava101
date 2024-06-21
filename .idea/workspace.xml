@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="RecursivePrime">
-      <change afterPath="$PROJECT_DIR$/src/RecursivePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystem/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystem/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +49,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecursivePattern">
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ImpCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ImpCalculator" />
       <module name="java101" />
@@ -61,9 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromNumber" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentInformationSystem.Main" />
       <module name="java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StudentInformationSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecursivePrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursivePrime" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RecursivePrime" />
         <item itemvalue="Application.RecursivePattern" />
         <item itemvalue="Application.RecursivePow" />
         <item itemvalue="Application.ImpCalculator" />
-        <item itemvalue="Application.PalindromNumber" />
-        <item itemvalue="Application.FibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718883201326</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="RecursivePrime">
+      <option name="closed" value="true" />
+      <created>1718883846526</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1718883846526</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,6 +463,20 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RecursivePattern.java</url>
+          <line>10</line>
+          <properties class="RecursivePattern" method="recursive">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RecursivePrime.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
