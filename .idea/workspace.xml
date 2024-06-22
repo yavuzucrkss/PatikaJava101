@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="BoksSimulation">
-      <change afterPath="$PROJECT_DIR$/src/SalaryCalculator/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalaryCalculator/Main.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="SalaryCalculator">
+      <change afterPath="$PROJECT_DIR$/src/HarmonicAvgWithArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -424,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719055857304</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="SalaryCalculator">
+      <option name="closed" value="true" />
+      <created>1719057371232</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1719057371232</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +458,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="UserLogin" />
     <MESSAGE value="Weather Activities" />
     <MESSAGE value="Number Orderer" />
     <MESSAGE value="Horoscope Finder" />
@@ -476,7 +482,8 @@
     <MESSAGE value="RecursivePrime" />
     <MESSAGE value="StudentInformationSystem" />
     <MESSAGE value="BoksSimulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="BoksSimulation" />
+    <MESSAGE value="SalaryCalculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="SalaryCalculator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
