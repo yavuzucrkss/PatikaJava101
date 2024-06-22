@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="MatrixTransPose">
-      <change afterPath="$PROJECT_DIR$/src/NumberGuessingGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="NumberGuessingGame">
+      <change afterPath="$PROJECT_DIR$/src/PalindromWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberGuessingGame">
+  <component name="RunManager" selected="Application.PalindromWords">
     <configuration name="DuplicatedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicatedNumbers" />
       <module name="java101" />
@@ -75,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepeatedNumInArray" />
+    <configuration name="PalindromWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromWords" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromWords" />
         <item itemvalue="Application.NumberGuessingGame" />
         <item itemvalue="Application.MatrixTransPose" />
         <item itemvalue="Application.DuplicatedNumbers" />
         <item itemvalue="Application.OrderArray" />
-        <item itemvalue="Application.RepeatedNumInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +468,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719066931506</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="NumberGuessingGame">
+      <option name="closed" value="true" />
+      <created>1719068742929</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1719068742929</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Powers of Two" />
     <MESSAGE value="Combinations" />
     <MESSAGE value="ExponentialNumCal" />
     <MESSAGE value="ArmstrongNumber" />
@@ -521,7 +527,8 @@
     <MESSAGE value="OrderArray" />
     <MESSAGE value="DuplicatedNumbers" />
     <MESSAGE value="MatrixTransPose" />
-    <option name="LAST_COMMIT_MESSAGE" value="MatrixTransPose" />
+    <MESSAGE value="NumberGuessingGame" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberGuessingGame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
