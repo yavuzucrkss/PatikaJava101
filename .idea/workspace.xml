@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="OrderArray">
-      <change afterPath="$PROJECT_DIR$/src/DuplicatedNumbers.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="DuplicatedNumbers">
+      <change afterPath="$PROJECT_DIR$/src/MatrixTransPose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DuplicatedNumbers">
+  <component name="RunManager" selected="Application.MatrixTransPose">
     <configuration name="DuplicatedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicatedNumbers" />
       <module name="java101" />
@@ -53,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinMaxArrays" />
+    <configuration name="MatrixTransPose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixTransPose" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixTransPose" />
         <item itemvalue="Application.DuplicatedNumbers" />
         <item itemvalue="Application.OrderArray" />
         <item itemvalue="Application.RepeatedNumInArray" />
         <item itemvalue="Application.PrintA" />
-        <item itemvalue="Application.MinMaxArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719065074633</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="DuplicatedNumbers">
+      <option name="closed" value="true" />
+      <created>1719066172998</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1719066172998</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,9 +511,9 @@
     <MESSAGE value="HarmonicAvgWithArrays" />
     <MESSAGE value="MinMaxArrays" />
     <MESSAGE value="PrintA.java" />
-    <MESSAGE value="DuplicatedNumbers" />
     <MESSAGE value="OrderArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="OrderArray" />
+    <MESSAGE value="DuplicatedNumbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="DuplicatedNumbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -531,6 +540,11 @@
           <url>file://$PROJECT_DIR$/src/RecursivePrime.java</url>
           <line>19</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MatrixTransPose.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
