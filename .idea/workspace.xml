@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="RecursivePrime">
-      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystem/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystem/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystem/Teacher.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="StudentInformationSystem">
+      <change afterPath="$PROJECT_DIR$/src/BoksSimulation/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoksSimulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoksSimulation/Match.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,10 +48,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ImpCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImpCalculator" />
+  <component name="RunManager" selected="Application.BoksSimulation.Main">
+    <configuration name="BoksSimulation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoksSimulation.Main" />
       <module name="java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BoksSimulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BoksSimulation.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RecursivePrime" />
         <item itemvalue="Application.RecursivePattern" />
         <item itemvalue="Application.RecursivePow" />
-        <item itemvalue="Application.ImpCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718883846526</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="StudentInformationSystem">
+      <option name="closed" value="true" />
+      <created>1718989060626</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1718989060626</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BodyIndexCalculator" />
     <MESSAGE value="CAlculator" />
     <MESSAGE value="UserLogin" />
     <MESSAGE value="Weather Activities" />
@@ -450,7 +462,8 @@
     <MESSAGE value="Improved Calculator" />
     <MESSAGE value="RecursiveExponential" />
     <MESSAGE value="RecursivePrime" />
-    <option name="LAST_COMMIT_MESSAGE" value="RecursivePrime" />
+    <MESSAGE value="StudentInformationSystem" />
+    <option name="LAST_COMMIT_MESSAGE" value="StudentInformationSystem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
