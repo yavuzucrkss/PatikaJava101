@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="SalaryCalculator">
-      <change afterPath="$PROJECT_DIR$/src/HarmonicAvgWithArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="HarmonicAvgWithArrays">
+      <change afterPath="$PROJECT_DIR$/src/MinMaxArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SalaryCalculator.Main">
+  <component name="RunManager" selected="Application.MinMaxArrays">
     <configuration name="BoksSimulation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoksSimulation.Main" />
       <module name="java101" />
@@ -73,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursivePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursivePattern" />
+    <configuration name="MinMaxArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinMaxArrays" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinMaxArrays" />
         <item itemvalue="Application.SalaryCalculator.Main" />
         <item itemvalue="Application.BoksSimulation.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RecursivePrime" />
-        <item itemvalue="Application.RecursivePattern" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +430,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719057371232</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="HarmonicAvgWithArrays">
+      <option name="closed" value="true" />
+      <created>1719062025550</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1719062025550</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -458,7 +465,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Weather Activities" />
     <MESSAGE value="Number Orderer" />
     <MESSAGE value="Horoscope Finder" />
     <MESSAGE value="Fly Ticket Calculator" />
@@ -483,7 +489,8 @@
     <MESSAGE value="StudentInformationSystem" />
     <MESSAGE value="BoksSimulation" />
     <MESSAGE value="SalaryCalculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="SalaryCalculator" />
+    <MESSAGE value="HarmonicAvgWithArrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="HarmonicAvgWithArrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
