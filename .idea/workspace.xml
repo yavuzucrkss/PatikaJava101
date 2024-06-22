@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="MinMaxArrays">
-      <change afterPath="$PROJECT_DIR$/src/PrintA.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="PrintA.java">
+      <change afterPath="$PROJECT_DIR$/src/RepeatedNumInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,26 +46,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintA">
+  <component name="RunManager" selected="Application.RepeatedNumInArray">
     <configuration name="BoksSimulation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BoksSimulation.Main" />
       <module name="java101" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BoksSimulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentInformationSystem.Main" />
-      <module name="java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StudentInformationSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RepeatedNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatedNumInArray" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SalaryCalculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SalaryCalculator.Main" />
       <module name="java101" />
@@ -102,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatedNumInArray" />
         <item itemvalue="Application.PrintA" />
         <item itemvalue="Application.MinMaxArrays" />
         <item itemvalue="Application.SalaryCalculator.Main" />
         <item itemvalue="Application.BoksSimulation.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719062584728</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="PrintA.java">
+      <option name="closed" value="true" />
+      <created>1719063839980</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1719063839980</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Horoscope Finder" />
     <MESSAGE value="Fly Ticket Calculator" />
     <MESSAGE value="ChineseZodiac.java" />
     <MESSAGE value="Even Number Finder" />
@@ -499,7 +500,8 @@
     <MESSAGE value="SalaryCalculator" />
     <MESSAGE value="HarmonicAvgWithArrays" />
     <MESSAGE value="MinMaxArrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="MinMaxArrays" />
+    <MESSAGE value="PrintA.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="PrintA.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
