@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="NumberGuessingGame">
-      <change afterPath="$PROJECT_DIR$/src/PalindromWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MineSweeper/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MineSweeper/MineSweeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +47,23 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PalindromWords">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DuplicatedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicatedNumbers" />
       <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MineSweeper.Main" />
+      <module name="java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MineSweeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -67,13 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OrderArray" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PalindromWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalindromWords" />
       <module name="java101" />
@@ -83,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PalindromWords" />
         <item itemvalue="Application.NumberGuessingGame" />
         <item itemvalue="Application.MatrixTransPose" />
         <item itemvalue="Application.DuplicatedNumbers" />
-        <item itemvalue="Application.OrderArray" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719068742929</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="NumberGuessingGame">
+      <option name="closed" value="true" />
+      <created>1719069190298</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1719069190299</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,6 +571,11 @@
           <url>file://$PROJECT_DIR$/src/RecursivePrime.java</url>
           <line>19</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MineSweeper/MineSweeper.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
