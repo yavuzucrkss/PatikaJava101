@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="NumberGuessingGame">
-      <change afterPath="$PROJECT_DIR$/src/MineSweeper/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MineSweeper/MineSweeper.java" afterDir="false" />
+    <list default="true" id="f20cf516-073b-44c5-8a27-50b7a11446bd" name="Changes" comment="MineSweeper">
+      <change afterPath="$PROJECT_DIR$/src/Deneme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +46,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DuplicatedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicatedNumbers" />
+  <component name="RunManager" selected="Application.Deneme">
+    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deneme" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deneme" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PalindromWords" />
         <item itemvalue="Application.NumberGuessingGame" />
         <item itemvalue="Application.MatrixTransPose" />
-        <item itemvalue="Application.DuplicatedNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719069190299</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="MineSweeper">
+      <option name="closed" value="true" />
+      <created>1719143754122</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1719143754122</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Combinations" />
     <MESSAGE value="ExponentialNumCal" />
     <MESSAGE value="ArmstrongNumber" />
     <MESSAGE value="HarmonicalNum" />
@@ -544,7 +550,8 @@
     <MESSAGE value="DuplicatedNumbers" />
     <MESSAGE value="MatrixTransPose" />
     <MESSAGE value="NumberGuessingGame" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumberGuessingGame" />
+    <MESSAGE value="MineSweeper" />
+    <option name="LAST_COMMIT_MESSAGE" value="MineSweeper" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
